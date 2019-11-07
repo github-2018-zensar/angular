@@ -9,3 +9,4 @@ However, there are cases in which your local changes do conflict
  with the upstream changes, and git pull refuses to overwrite your 
  changes. In such a case, you can stash your changes away, perform a 
  pull, and then unstash, like this:
+ Editing the last line here
